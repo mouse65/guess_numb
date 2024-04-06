@@ -1,3 +1,5 @@
+# игнорируем файл данных
+data_game_v3.txt
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
